@@ -1,0 +1,11 @@
+fun main
+
+Print Question 1-10
+
+Readline
+
+When loop
+
+List out options
+
+print number in spanish

@@ -1,0 +1,5 @@
+fun main
+
+Set var type and value
+
+print vars

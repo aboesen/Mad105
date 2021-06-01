@@ -1,0 +1,7 @@
+fun main
+
+Print options
+
+Get input
+
+Print selected input

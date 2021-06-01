@@ -1,0 +1,10 @@
+fun main
+
+When loop
+
+Print Query
+
+if >99.5<104 print High
+if >97.5<99.5 Normal
+if >92 <97.5 print Low
+else print invalid
